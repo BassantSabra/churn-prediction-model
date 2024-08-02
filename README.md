@@ -1,6 +1,4 @@
-# Churned Customer Prediction Report
 
-This repository contains the code and analysis related to the "CHURNED CUSTOMER PREDICTION" project, as detailed in the "CUSTOMER CHURNED PREDICTION REPORT.pdf" document.
 
 ## Project Overview
 The primary objective of this project is to investigate customer churn in the telecommunications industry by analyzing a dataset containing information about customer demographics, subscribed services, contract details, churn status, and more. The goal is to understand the factors influencing churn and develop predictive models to identify customers at risk of churning.
